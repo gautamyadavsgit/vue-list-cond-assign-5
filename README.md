@@ -1,0 +1,1 @@
+# vue-list-cond-assign-5
